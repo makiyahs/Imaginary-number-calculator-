@@ -1,1 +1,3 @@
 # Imaginary-number-calculator-
+
+In this program you use a series of calculation in order to calculate imaginary numbers. Imaginary numbers are numbers that are multiplied, divided, added, or subtracted from numbers with i for example 5i is an imaginary number with the square rot of -25. Imaginary numbers are number that when squared are negative. I used a series of formuals to calculate the result of multiplying, dividing, adding and subtracting imaginary numbers. In order to work my program you will press run. Then you will be asked to type in a number 1-5 depending on which operation you want. Then you will be asked to type in a number for variable a , variable b, varible c and variable d. Then these answers will go into the equation and calculate the outcome.
